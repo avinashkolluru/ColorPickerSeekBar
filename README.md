@@ -6,6 +6,7 @@ ColorPickerSeekBar is an extension of SeekBar Android Widget for choosing a colo
 <img src='./ColorPickerSeekBar-Screenshot.png' width='270' height='480' />
 
 Contains 2 modules
+
 1. ColorPickerSeekBar (com.ak.android.widget.colorpickerseekbar) which is an Android Library
 2. ColorPickerSampleApp - A sample app showing how to use the above library
 
