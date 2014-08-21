@@ -3,7 +3,7 @@ ColorPickerSeekBar
 
 ColorPickerSeekBar is an extension of SeekBar Android Widget for choosing a color. User can touch the thumb and drag left or right to set the color.
 
-![alt tag](ColorPickerSeekBar-Screenshot.png)
+<img src='./ColorPickerSeekBar-Screenshot.png' width='270' height='480' />
 
 Contains 2 modules
 1. ColorPickerSeekBar (com.ak.android.widget.colorpickerseekbar) which is an Android Library
